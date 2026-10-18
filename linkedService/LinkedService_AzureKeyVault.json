@@ -1,0 +1,11 @@
+{
+	"name": "LinkedService_AzureKeyVault",
+	"properties": {
+		"description": "Linked Service Azure Key Vault",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://projectcaresync-keyvault.vault.azure.net/"
+		}
+	}
+}
