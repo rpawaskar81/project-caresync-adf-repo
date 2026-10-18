@@ -1,0 +1,11 @@
+{
+	"name": "LinkedService_AzureDataLakeStorage",
+	"properties": {
+		"description": "Linked Service Azure Data Lake Storage",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://saprojectcaresync.dfs.core.windows.net/"
+		}
+	}
+}
